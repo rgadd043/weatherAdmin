@@ -3,8 +3,11 @@ var fs = require("fs");
 // Authored
 var user = require("./user.js");
 var admin = require("./admin.js");
+// Variables
 var result = [];
 var command = "";
+
+// Input Start
 
 if (process.argv[2] === "user") {
   user.submission(process.argv[4]);
