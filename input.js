@@ -1,6 +1,8 @@
+// Vendor
+var fs = require("fs");
+// Authored
 var user = require("./user.js");
 var admin = require("./admin.js");
-var fs = require("fs");
 var result = [];
 var command = "";
 
