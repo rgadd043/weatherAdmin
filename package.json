@@ -1,0 +1,26 @@
+{
+  "name": "weather-admin",
+  "version": "1.0.0",
+  "description": "weather app",
+  "main": "admin.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgadd043/weatherAdmin.git"
+  },
+  "author": "jeran / ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgadd043/weatherAdmin/issues"
+  },
+  "homepage": "https://github.com/rgadd043/weatherAdmin#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "weather-js": "^2.0.0"
+  }
+}

@@ -1,4 +1,4 @@
-// Vendor
+//Vendor
 var fs = require("fs");
 var result;
 //
